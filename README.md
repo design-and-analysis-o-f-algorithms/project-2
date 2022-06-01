@@ -1,6 +1,6 @@
 # Project 2
 
-Connections on permutation graphs
+Connections on permutation graphs.
 
 ## Usage
 
